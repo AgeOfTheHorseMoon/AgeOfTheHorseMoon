@@ -1,4 +1,10 @@
-### Hi there 👋
+### Hi
+
+-I'm computer engineering student
+
+-I working and learning game development
+
+-I love drawing and mostly create asset myself for my games
 
 <!--
 **AgeOfTheHorseMoon/AgeOfTheHorseMoon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
